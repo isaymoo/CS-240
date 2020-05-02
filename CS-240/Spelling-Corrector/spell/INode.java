@@ -1,14 +1,27 @@
 package spell;
 
 /**
- * Your trie node class should implement the INode interface
+ * DO NOT MODIFY THIS FILE!
+ * Your trie node class should implement the INode interface.
  */
 public interface INode {
 
     /**
-     * Returns the frequency count for the word represented by the node
+     * Returns the frequency count for the word represented by the node.
      *
-     * @return The frequency count for the word represented by the node
+     * @return the frequency count for the word represented by the node.
      */
-    public int getValue();
+    int getValue();
+
+    /**
+     * Increments the frequency count for the word represented by the node.
+     */
+    void incrementValue();
+
+    /**
+     * Returns the child nodes of this node.
+     *
+     * @return the child nodes.
+     */
+    INode[] getChildren();
 }
