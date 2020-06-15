@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21785f56-4638-421e-af14-d808d9836845" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c6FmAPRFVXuGD1Zj6sZ8WofL6b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/FMSTestingObf.jar!/" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\isaym\IdeaProjects\Family Map\src" />
+      <recent name="C:\Users\isaym\IdeaProjects\Family Map" />
+      <recent name="C:\Users\isaym\IdeaProjects\Family Map\src\DataAccess" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Server">
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Server.Server" />
+      <module name="FamilyMap" />
+      <option name="PROGRAM_PARAMETERS" value="8080" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FamilyMap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.passoff.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.passoff" />
+      <option name="MAIN_CLASS_NAME" value="test.java.passoff.ServerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerTest.testRealisticDeathEvents" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FamilyMap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.passoff.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.passoff" />
+      <option name="MAIN_CLASS_NAME" value="test.java.passoff.ServerTest" />
+      <option name="METHOD_NAME" value="testRealisticDeathEvents(org.junit.jupiter.api.TestInfo)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerTest.testValidPerson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FamilyMap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.passoff.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.passoff" />
+      <option name="MAIN_CLASS_NAME" value="test.java.passoff.ServerTest" />
+      <option name="METHOD_NAME" value="testValidPerson(org.junit.jupiter.api.TestInfo)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Services.Tests in Family Map" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FamilyMap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Services.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Services.Tests" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="FamilyMap" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="FamilyMap" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Server" />
+      <item itemvalue="JUnit.ServerTest" />
+      <item itemvalue="JUnit.ServerTest.testRealisticDeathEvents" />
+      <item itemvalue="JUnit.ServerTest.testValidPerson" />
+      <item itemvalue="JUnit.Services.Tests in Family Map" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server" />
+        <item itemvalue="JUnit.ServerTest" />
+        <item itemvalue="JUnit.Services.Tests in Family Map" />
+        <item itemvalue="JUnit.ServerTest.testValidPerson" />
+        <item itemvalue="JUnit.ServerTest.testRealisticDeathEvents" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21785f56-4638-421e-af14-d808d9836845" name="Default Changelist" comment="" />
+      <created>1589841292744</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589841292744</updated>
+      <workItem from="1589841296805" duration="4020000" />
+      <workItem from="1590025071408" duration="3111000" />
+      <workItem from="1590087359221" duration="6209000" />
+      <workItem from="1590096685495" duration="896000" />
+      <workItem from="1590097591111" duration="2167000" />
+      <workItem from="1590099771076" duration="865000" />
+      <workItem from="1590100644843" duration="537000" />
+      <workItem from="1590101193917" duration="26000" />
+      <workItem from="1590153729781" duration="1895000" />
+      <workItem from="1590155634722" duration="2403000" />
+      <workItem from="1590520428091" duration="1327000" />
+      <workItem from="1590618753521" duration="38477000" />
+      <workItem from="1591036906778" duration="18875000" />
+      <workItem from="1591056945945" duration="1158000" />
+      <workItem from="1591129005442" duration="9510000" />
+      <workItem from="1591217419248" duration="841000" />
+      <workItem from="1591218269562" duration="31876000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="120" y="278" key="#Project_Structure" timestamp="1591135896249">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="120" y="278" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1591135896249" />
+    <state x="350" y="323" key="#Server" timestamp="1591152569478">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="350" y="323" key="#Server/0.0.2560.1400@0.0.2560.1400" timestamp="1591152569478" />
+    <state x="274" y="325" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591306459164">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="274" y="325" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1591306459164" />
+    <state x="93" y="100" width="1093" height="1207" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1590100623343">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="93" y="100" width="1093" height="1207" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1590100623343" />
+    <state x="445" y="410" key="#com.intellij.ide.util.MemberChooser" timestamp="1591134355233">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="445" y="410" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1591134355233" />
+    <state x="189" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591308052349">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="189" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1591308052349" />
+    <state x="398" y="438" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1589845212773">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="398" y="438" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2560.1400@0.0.2560.1400" timestamp="1589845212773" />
+    <state width="454" height="466" key="DebuggerActiveHint" timestamp="1591305954615">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="454" height="466" key="DebuggerActiveHint/0.0.2560.1400@0.0.2560.1400" timestamp="1591305954615" />
+    <state x="421" y="458" key="FileChooserDialogImpl" timestamp="1591221048206">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="421" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1591221048206" />
+    <state width="2517" height="394" key="GridCell.Tab.0.bottom" timestamp="1591375765145">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="394" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1591375765145" />
+    <state width="2517" height="394" key="GridCell.Tab.0.center" timestamp="1591375765145">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="394" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1591375765145" />
+    <state width="2517" height="394" key="GridCell.Tab.0.left" timestamp="1591375765145">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="394" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1591375765145" />
+    <state width="2517" height="394" key="GridCell.Tab.0.right" timestamp="1591375765145">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="394" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1591375765145" />
+    <state width="1235" height="482" key="GridCell.Tab.1.bottom" timestamp="1591375538088">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1235" height="482" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1591375538088" />
+    <state width="1235" height="482" key="GridCell.Tab.1.center" timestamp="1591375538088">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1235" height="482" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1591375538088" />
+    <state width="1235" height="482" key="GridCell.Tab.1.left" timestamp="1591375538088">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1235" height="482" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1591375538088" />
+    <state width="1235" height="482" key="GridCell.Tab.1.right" timestamp="1591375538088">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1235" height="482" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1591375538088" />
+    <state width="198" height="457" key="HiddenNamespacesPopup" timestamp="1590187824783">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="198" height="457" key="HiddenNamespacesPopup/0.0.2560.1400@0.0.2560.1400" timestamp="1590187824783" />
+    <state x="120" y="278" key="SettingsEditor" timestamp="1591221050669">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="120" y="278" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1591221050669" />
+    <state width="647" height="700" key="XDebugger.FullValuePopup" timestamp="1591371593918">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="647" height="700" key="XDebugger.FullValuePopup/0.0.2560.1400@0.0.2560.1400" timestamp="1591371593918" />
+    <state x="1301" y="0" width="1265" height="1407" key="dock-window-1" timestamp="1591039784652">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1301" y="0" width="1265" height="1407" key="dock-window-1/0.0.2560.1400@0.0.2560.1400" timestamp="1591039784652" />
+    <state x="1301" y="0" width="1265" height="1407" key="dock-window-2" timestamp="1591041927783">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1301" y="0" width="1265" height="1407" key="dock-window-2/0.0.2560.1400@0.0.2560.1400" timestamp="1591041927783" />
+    <state x="1301" y="0" width="1265" height="1407" key="dock-window-3" timestamp="1591056933973">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1301" y="0" width="1265" height="1407" key="dock-window-3/0.0.2560.1400@0.0.2560.1400" timestamp="1591056933973" />
+    <state x="2136" y="187" width="848" height="957" key="dock-window-4" timestamp="1591056933973">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2136" y="187" width="848" height="957" key="dock-window-4/0.0.2560.1400@0.0.2560.1400" timestamp="1591056933973" />
+    <state x="370" y="465" key="extract.method.dialog" timestamp="1590949745529">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="370" y="465" key="extract.method.dialog/0.0.2560.1400@0.0.2560.1400" timestamp="1590949745529" />
+    <state x="435" y="451" key="refactoring.ChangeSignatureDialog" timestamp="1590094709718">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="435" y="451" key="refactoring.ChangeSignatureDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1590094709718" />
+    <state x="311" y="319" width="672" height="678" key="search.everywhere.popup" timestamp="1591054208815">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="311" y="319" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1591054208815" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataAccess/EventDaoTest.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataAccess/UserDaoTest.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Services/Tests/FillTest.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Services/Tests/LoadTest.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Services/Tests/PersonIDTest.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Services/Tests/EventIDTest.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Services/Tests/EventIDTest.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Handlers/ClearHandler.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataAccess/Database.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Handlers/FillHandler.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Handlers/EventHandler.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Handlers/PersonHandler.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/passoff/ServerTest.java</url>
+          <line>676</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Family_Map$PersonDaoTest.ic" NAME="PersonDaoTest Coverage Results" MODIFIED="1590153943575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>DataAccess.*</FILTER>
+    </SUITE>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+configurations.maybeCreate("default")
+
+dependencies {
+    implementation files('libs/Shared.jar')
+}
+artifacts.add("default", file('Shared.jar'))
