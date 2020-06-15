@@ -1,4 +1,0 @@
-include ':Shared'
-include ':shared'
-include ':app'
-rootProject.name = "FMS"
